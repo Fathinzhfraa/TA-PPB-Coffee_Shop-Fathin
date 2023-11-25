@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Black",
+    "description": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
+    "ingredients": "Coffee"
+  },
+  {
+    "id": 2,
+    "name": "Latte",
+    "description": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
+    "ingredients": "Espresso, Steamed Milk"
+  },
+  {
+    "id": 3,
+    "name": "Cappucino",
+    "description": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+    "ingredients": "Espresso, Steamed Milk, Foam"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "description": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water.",
+    "ingredients": "Espresso, Hot Water"
+  },
+  {
+    "id": 5,
+    "name": "Ristretto",
+    "description": "Ristretto is an espresso shot. It uses less hot water which creates a sweeter flavor compared to the bitter taste of a traditional shot of espresso or a doppio.",
+    "ingredients": "Short pulled espresso"
+  },
+  {
+    "id": 6,
+    "name": "Affogato",
+    "description": "The affogato is an excuse to enjoy a scoop of ice cream any time of day (and any time of year in my opinion). Served with a scoop of ice cream and a shot of espresso, or two.",
+    "ingredients": "Espresso, Ice Cream"
+  },
+  {
+    "id": 7,
+    "name": "Cortadito",
+    "description": "Traditional cuban coffee method where a bit of freshly brewed coffee is mixed with sugar to create a highly sugared paste. Then add the rest of the coffee and stir adding milk until a 50/50 ratio is achieved.",
+    "ingredients": "Coffee, Traditional, Sugar, Milk"
+  },
+  {
+    "id": 8,
+    "name": "Mocha",
+    "description": "For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.",
+    "ingredients": "Espresso, Steamed Milk, Chocolate"
+  }
+]
